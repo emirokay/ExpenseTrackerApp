@@ -1,7 +1,8 @@
-
 # ExpenseTrackerApp
-
 An iOS application developed with Swift and SwiftUI to help users efficiently manage and monitor their expenses. The app allows users to add, categorize, filter, and track their expenses while providing a clean and intuitive interface for seamless use.
+
+## Screen Recording
+https://github.com/user-attachments/assets/1950081e-6132-411a-a6d8-a1bc340a7932
 
 ## Features
 - **Add Expenses**: Record expenses with details such as name, description, category, and amount.
